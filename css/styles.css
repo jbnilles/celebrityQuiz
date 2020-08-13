@@ -1,0 +1,16 @@
+.setwidth{
+  width:250px;
+}
+.container{
+  background-color: rgb(250, 211, 102);
+}
+.jumbotron{
+  background-color: khaki;
+
+}
+body{
+  background-color: rgb(194, 210, 226);
+}
+#friendpicture{
+  padding-bottom: 50px;
+}

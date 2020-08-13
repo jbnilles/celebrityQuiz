@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
 
@@ -8,38 +9,45 @@
   <script src="js/scripts.js"></script>
   <link rel="stylesheet" href="/css/bootstrap.css" type="text/css">
   <link rel="stylesheet" href="/css/styles.css" type="text/css">
-  <title>Celebrity Quiz</title>
+  <title>Friends Quiz</title>
 </head>
+
 <body>
-  <div class="container text-center">
+  <br>
+  <div class="container text-center rounded-lg">
+    <br>
     <div class="jumbotron">
-      <h3>Celebrity Quiz</h3>
+      <h3>Friends Quiz</h3>
     </div>
-      <div class="align-items-md-center">
-          <form>
-            <h5>What is your favorite color?</h5>
-              <select class="form-control" id="color">
-                <option value="blue">Blue</option>
-                <option value="red">Red</option>
-                <option value="yellow">Yellow</option>
-                <option value="green">Green</option>
-              </select>
-          <br>
-            <h5>What is your favorite food?</h5>
-              <select class="form-control" id="food">
-                <option value="pizza">Pizza</option>
-                <option value="salad">Salad</option>
-                <option value="turkeysandwich">Turkey Sandwich</option>
-                <option value="hotdog">Hot Dog</option>
-              </select>
-              <br>
-              <button type="submit" class="btn btn-primary">Submit</button>
-          </form>
-          <br>
-          <hr>
-          <h3>Which Friends character are you?:</h3>
-          <h5 id="answer"></h5>
-      </div>
+    <div class="align-items-md-center">
+      <form>
+        <h5>What is your favorite color?</h5>
+        <select class="form-control" id="color">
+          <option value="blue">Blue</option>
+          <option value="red">Red</option>
+          <option value="yellow">Yellow</option>
+          <option value="green">Green</option>
+        </select>
+        <br>
+        <h5>What is your favorite food?</h5>
+        <select class="form-control" id="food">
+          <option value="pizza">Pizza</option>
+          <option value="salad">Salad</option>
+          <option value="turkeysandwich">Turkey Sandwich</option>
+          <option value="hotdog">Hot Dog</option>
+        </select>
+        <br>
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
+      <br>
+      <hr>
+      <h3>Which Friends character are you?:</h3>
+
+      <h5 id="answer"></h5>
+      <img id="friendpicture" class="setwidth" src="" alt="">
+
+    </div>
   </div>
 </body>
+
 </html>
