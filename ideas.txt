@@ -13,10 +13,10 @@ hot dog
 
 Friends Characters
 
-Rachel
-Joey 
-Chandler
-Phoebe
-Monica 
-Ross
+Rachel <-- which combo of answers?
+Joey  <-- which combo of answers
+Chandler <-- which combo of answers
+Phoebe <-- which combo of answers
+Monica <-- which combo of answers
+Ross <-- which combo of answers
 
