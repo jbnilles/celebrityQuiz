@@ -1,0 +1,22 @@
+Whats your favorite color
+blue
+red
+yellow
+green
+
+Whats your favorite food
+
+pizza
+salad
+turkey sandwich
+hot dog
+
+Friends Characters
+
+Rachel
+Joey 
+Chandler
+Phoebe
+Monica 
+Ross
+
